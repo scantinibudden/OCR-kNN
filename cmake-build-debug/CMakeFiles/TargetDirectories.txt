@@ -1,0 +1,14 @@
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/install/local.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/install.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/metnum.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/tp2.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/metodos-tp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/metodos-tp2/cmake-build-debug/pybind11/CMakeFiles/install/strip.dir
+/home/lucas/metodos-tp2/cmake-build-debug/pybind11/CMakeFiles/install/local.dir
+/home/lucas/metodos-tp2/cmake-build-debug/pybind11/CMakeFiles/install.dir
+/home/lucas/metodos-tp2/cmake-build-debug/pybind11/CMakeFiles/list_install_components.dir
+/home/lucas/metodos-tp2/cmake-build-debug/pybind11/CMakeFiles/rebuild_cache.dir
+/home/lucas/metodos-tp2/cmake-build-debug/pybind11/CMakeFiles/edit_cache.dir
